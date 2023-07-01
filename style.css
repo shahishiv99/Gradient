@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+
+body {
+  margin: auto;
+  box-sizing: border-box;
+}
+.contenor {
+  width: auto;
+  height: 100vh;
+  overflow: hidden;
+  background: linear-gradient(to right, red, yellow);
+}
+.id {
+  text-align: center;
+  margin: auto;
+  padding: 5px;
+}
+h1 {
+  color: red;
+}
+h2 {
+  color: green;
+}
